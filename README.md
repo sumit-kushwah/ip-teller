@@ -1,1 +1,1 @@
-[link](https://ip-teller.netlify.app/)
+[link](https://ipteller.netlify.app/)
